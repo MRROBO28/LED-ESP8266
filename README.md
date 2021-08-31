@@ -2,5 +2,5 @@
 Memprogram LED dengan Board Nodemcu
 
 # Ada beberapa kategori program yang digunakan
-1.Led default<br>
-2.Led dengan Pin 
+1.Led pada board NodeMCU<br>
+2.Led Berpin
