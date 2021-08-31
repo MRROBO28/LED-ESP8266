@@ -16,4 +16,6 @@ void loop (){
   delay(1000);
   digitalWrite(LED,LOW); //LED OFF
   delay(1000);
+
+  //Kalian bisa ganti program yang ada di void loop sesuai dengan kebutuhan kalian
 }
